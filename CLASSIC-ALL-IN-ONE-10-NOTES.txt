@@ -1,0 +1,8 @@
+Leatrix Plus 1.12.1 All-in-One 10
+
+- Removes the unsupported Always auto-loot option and its saved setting.
+- Keeps Faster looting for the client's normal Shift auto-loot condition.
+- Fixes NPCs offering multiple completed quests: Vanilla gossip title/level
+  pairs are cross-referenced against the live quest log, completed turn-ins are
+  selected before available pickups, and subsequent gossip refreshes process
+  the remaining completed quests.

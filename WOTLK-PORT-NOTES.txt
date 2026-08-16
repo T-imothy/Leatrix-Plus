@@ -1,0 +1,9 @@
+LEATRIX PLUS - WOTLK 3.3.5A PORT
+
+This build carries the Classic all-in-one feature set into the 3.3.5a client.
+It uses explicit Wrath event arguments, Wrath aura fallbacks, a blue dark
+interface, legacy-continent flight presets, and learned timing for routes that
+are not in the preset data.
+
+Open the options with /ltp or the minimap button.
+

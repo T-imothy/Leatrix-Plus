@@ -1,0 +1,8 @@
+Leatrix Plus 1.12.1 All-in-One 12
+
+- Adds Save character automatically (.save) to the Recommended preset.
+- Applies the Recommended preset automatically when LTP has no existing saved
+  profile (a genuine first installation or after deleting its SavedVariables).
+- Preserves every existing option choice during upgrades; existing users can
+  press Recommended to apply the new preset deliberately.
+- Updates Help and preset tooltips to explain the first-use behavior.

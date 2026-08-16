@@ -1,0 +1,11 @@
+## Interface: 30300
+## Title: Leatrix Plus |cff72c7ff(WotLK)|r
+## Notes: Wrath 3.3.5a all-in-one automation and quality-of-life suite.
+## Version: 3.3.5a-allinone.4
+## Author: Tim
+## SavedVariables: LeaPlusDB
+
+Client.lua
+FlightTimes_112.lua
+Leatrix_Plus.lua
+Bindings.xml

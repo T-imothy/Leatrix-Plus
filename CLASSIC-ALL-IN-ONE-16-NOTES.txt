@@ -1,0 +1,10 @@
+Leatrix Plus 1.12.1 all-in-one.16
+
+- Quest automation now waits 0.30 seconds for the NPC dialog to stabilize and
+  performs exactly one action from each refreshed quest/gossip state.
+- Native quest events and the v14 private-client visible-panel fallback now use
+  the same queue, preventing them from racing or reusing stale quest indices.
+- Multiple completed and available quests remain supported: every reward or
+  refreshed list emits/creates the next queued action.
+- Zygor remains a separate passive guide/tracker. Automate quests in LTP is the
+  single optional owner of accepting and turning in quests.

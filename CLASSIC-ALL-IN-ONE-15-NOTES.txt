@@ -1,0 +1,4 @@
+Leatrix Plus 1.12.1 all-in-one.15
+
+- Metadata-only release for testing simultaneous launcher update detection.
+- No automation, settings, user-interface, or gameplay behavior was changed.
