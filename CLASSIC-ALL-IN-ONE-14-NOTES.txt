@@ -1,0 +1,10 @@
+Leatrix Plus 1.12.1 All-in-One 14
+
+- Adds a safe first-active fallback when Vanilla cannot classify multiple
+  QUEST_GREETING entries because completion data is unavailable or hidden.
+- Watches the visible QuestFrame and GossipFrame greeting panels directly, so
+  automation still starts if a private client does not deliver their events to
+  addon-created frames.
+- Uses quest-list signatures to process the next turn-in after a reward without
+  repeatedly selecting an unchanged row.
+- Retains /ltp queststatus and the v12 first-use Recommended/.save preset.

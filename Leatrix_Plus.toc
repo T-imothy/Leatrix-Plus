@@ -1,0 +1,10 @@
+## Interface: 11200
+## Title: Leatrix Plus |cff88ff88(1.12 Fix)|r
+## Notes: Vanilla 1.12.1 all-in-one automation and quality-of-life suite.
+## Version: 1.12.1-allinone.29
+## Author: Tim
+## SavedVariables: LeaPlusDB
+
+FlightTimes_112.lua
+Leatrix_Plus.lua
+Bindings.xml
