@@ -1,0 +1,8 @@
+<Bindings>
+	<Binding name="LEAPLUSLOGOUT" header="LEATRIXPLUS">Logout();</Binding>
+	<Binding name="LEAPLUSUNSTUCK" header="LEATRIXPLUS">Stuck();</Binding>
+	<Binding name="LEAPLUSRELOAD" header="LEATRIXPLUS">ReloadUI();</Binding>
+	<Binding name="LEAPLUSDUEL" header="LEATRIXPLUS">LeaPlus_DuelOrTargetFlagCarrier();</Binding>
+	<Binding name="LEAPLUSWSGDROP" header="LEATRIXPLUS">LeaPlus_DropWSGFlag();</Binding>
+	<Binding name="LEAPLUSMENU" header="LEATRIXPLUS">LeaPlus_ToggleOptions();</Binding>
+</Bindings>

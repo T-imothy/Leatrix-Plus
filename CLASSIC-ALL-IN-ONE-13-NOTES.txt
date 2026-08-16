@@ -1,0 +1,9 @@
+Leatrix Plus 1.12.1 All-in-One 13
+
+- Fixes multiple completed quests on QUEST_GREETING NPC windows. Vanilla's
+  GetActiveTitle() does not reliably return a completion flag, so active titles
+  are now cross-referenced against the quest log just like gossip quests.
+- Normalizes colored/trimmed quest titles and falls back to finished objective
+  rows when a private client omits the aggregate quest-complete flag.
+- Adds /ltp queststatus for compact live quest-selector diagnostics.
+- Retains the v12 first-use Recommended preset with automatic .save enabled.

@@ -1,0 +1,8 @@
+LEATRIX PLUS - TBC 2.4.3 PORT
+
+This build carries the Classic all-in-one feature set into the 2.4.3 client.
+It uses TBC-safe event handlers, a fel-green dark interface, legacy-continent
+flight presets, and learned timing for routes that are not in the preset data.
+
+Open the options with /ltp or the minimap button.
+

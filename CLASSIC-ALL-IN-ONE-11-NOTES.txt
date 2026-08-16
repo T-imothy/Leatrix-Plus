@@ -1,0 +1,9 @@
+Leatrix Plus 1.12.1 All-in-One 11
+
+- Adds option search with Find/Enter cycling, automatic tab navigation, and a
+  visible ON/OFF result state.
+- Renames the LazyPig private-server feature to Save character automatically
+  (.save), so searches such as "save character" find it directly.
+- Adds an in-addon Help window covering search, recommended settings, Shift
+  bypasses, quest safety, private-server saves, and useful commands.
+- Retains the ALL-IN-ONE 10 multiple-completed-quest turn-in fix.

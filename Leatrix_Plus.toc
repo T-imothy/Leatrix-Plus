@@ -1,0 +1,11 @@
+## Interface: 20400
+## Title: Leatrix Plus |cff48ff78(TBC)|r
+## Notes: Burning Crusade 2.4.3 all-in-one automation and quality-of-life suite.
+## Version: 2.4.3-allinone.4
+## Author: Tim
+## SavedVariables: LeaPlusDB
+
+Client.lua
+FlightTimes_112.lua
+Leatrix_Plus.lua
+Bindings.xml
